@@ -1,0 +1,17 @@
+# R-Programming-Basics-
+Baby steps towards learning R Programming
+First Script - "Hello World"
+Declaring & Printing Variables (Text & Characetrs)
+Typeof()
+Paste()
+Use of Operators 
+# ==
+# != (Not Equal to)
+# <
+# >
+# <=
+# >=
+# ! (Not)
+# | (Single Pipe is called OR in R Programming)
+# & AND
+# isTrue(X)
