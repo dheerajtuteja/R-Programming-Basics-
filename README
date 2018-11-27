@@ -19,3 +19,4 @@ WHILE Statememt / Loop
 Verification of Law of Large Numbers
 rnorm function generates Random numbers with Mean = 0 & Standard Deviation = 1 (68.2%)
 Basis implementation of For & IF Loop
+Introduction to VECTORS, seq (SEQUENCE), rep (REPETITION)
